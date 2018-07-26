@@ -9,9 +9,9 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		char ch = 'i';
+		char ch = 'a';
 
-        if( ch == 'i' )
+        if( ch == 'a' )
             System.out.println(ch + " is vowel");
         else
             System.out.println(ch + " is consonant");
