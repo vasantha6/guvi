@@ -9,10 +9,10 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		double i=2016;
-		if(i==2016)
-		System.out.println("yes");
-		else
+		double i=2015;
+		if(i==2015)
 		System.out.println("no");
+		else
+		System.out.println("yes");
 	}
 }
