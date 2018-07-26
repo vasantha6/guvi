@@ -12,9 +12,9 @@ class Ideone
 		char ch = 'z';
 
         if( ch == 'z' )
-            System.out.println(ch + " is alphabet");
+            System.out.println(" Alphabet");
         else
-            System.out.println(ch + " is not alphabet");
+            System.out.println(" not a alphabet");
 
 	}
 }
