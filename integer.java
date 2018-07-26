@@ -15,11 +15,11 @@ class Ideone
 		int z=sc.nextInt();
 		System.out.println("enter three integers");
 		if ( x > y && x > z )
-         System.out.println("First number is largest.");
+         System.out.println("x");
       else if ( y > x && y > z )
-         System.out.println("Second number is largest.");
+         System.out.println("y");
       else if ( z > x && z > y )
-         System.out.println("Third number is largest.");
+         System.out.println("z");
       else   
          System.out.println("Entered numbers are not distinct.");
 	}
