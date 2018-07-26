@@ -12,9 +12,9 @@ class Ideone
 		char ch = 'z';
 
         if( ch == 'z' )
-            System.out.println(ch + " is vowel");
-        else
             System.out.println(ch + " is consonant");
+        else
+            System.out.println(ch + " is vowel");
 
 	}
 }
