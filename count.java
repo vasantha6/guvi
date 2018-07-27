@@ -10,8 +10,8 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		Scanner sc=new Scanner(System.in);
-		int n=sc.nextInt();
-		int count=0;
+		int n= sc.nextInt();
+		int count= 0;
 		while(n>0)
 		{
 			n=n/10;
