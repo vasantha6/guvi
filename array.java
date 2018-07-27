@@ -13,7 +13,7 @@ class Ideone
 	     int n=sc.nextInt();
 	     int sum=0;
 	     int rem=0;
-	     rem=n%10;
+	     rem = n%10;
 	     sum=sum+rem;
 	     System.out.println(sum);
 	}
