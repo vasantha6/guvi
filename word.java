@@ -9,8 +9,8 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		String  s="HELLO";
+		String  s="Hello";
 		for( int i=0;i<=4;i++)
-		System.out.println(s);
+		System.out.println(\n s);
 	}
 }
