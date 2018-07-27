@@ -11,6 +11,6 @@ class Ideone
 	{
 	int a=2;
 	int n=3;
-	System.out.println(Math.pow(a,n) );
+	System.out.println( Math.pow(a,n));
 	}
 }
