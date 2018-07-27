@@ -11,6 +11,6 @@ class Ideone
 	{
 		String  s="Hello";
 		for( int i=0;i<=4;i++)
-		System.out.println(\n s);
+		System.out.println( \n s);
 	}
 }
