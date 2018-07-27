@@ -18,6 +18,6 @@ class Ideone
            count++;
        }
 
-       System.out.println(+total);
+       System.out.println( +total );
        }
 }
