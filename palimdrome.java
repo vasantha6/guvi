@@ -10,7 +10,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		int r,sum=0,temp;    
-  int n=454;
+  int n=121;
   temp=n;    
   while(n>0)
   {    
@@ -19,9 +19,9 @@ class Ideone
    n=n/10;    
   }    
   if(temp==sum)    
-   System.out.println("palindrome number ");    
+   System.out.println("yes ");    
   else    
-   System.out.println("not palindrome");    
+   System.out.println("no");    
   
 	}
 }
