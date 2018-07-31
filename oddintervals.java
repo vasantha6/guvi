@@ -14,8 +14,8 @@ class Ideone
 	{
 	
 	int p=1,q=6;
-System.out.println("Input:");
-	System.out.println(p+"  "+q);	
+
+		
 		
 	for(p=p+1;p<=q;p++)
 		
@@ -24,8 +24,11 @@ System.out.println("Input:");
 		if(p%2!=0)
 				
 		{
-		System.out.print("  "+p);
+					
+			System.out.print("  "+p);
+		
 		}
-	}
+	
+}
 }
 }
