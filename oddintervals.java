@@ -24,11 +24,8 @@ System.out.println("Input:");
 		if(p%2!=0)
 				
 		{
-					
-			System.out.print("  "+p);
-		
+		System.out.print("  "+p);
 		}
-	
-}
+	}
 }
 }
