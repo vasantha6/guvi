@@ -8,11 +8,10 @@ class Interval
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		int low = 153, high = 371;
-
-        for(int number = low + 1; number < high; ++number)
+		for(int number = low + 1; number < high; ++number)
         {
-            int digits = 0;
-            int result = 0;
+            int digits =0;
+            int result =0;
             int originalNumber = number;
 
            
