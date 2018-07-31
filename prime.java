@@ -10,7 +10,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		
-        int num = 121;
+        int num = 11;
         boolean flag = false;
         for(int i = 2; i <= num/2; ++i)
         {
@@ -22,8 +22,8 @@ class Ideone
         }
 
         if (!flag)
-            System.out.println("yes");
+            System.out.println("no");
         else
-            System.out.println( "no");
+            System.out.println( "yes");
 	}
 }
