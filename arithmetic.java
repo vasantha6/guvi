@@ -13,9 +13,9 @@ class GFG
   public static void main(String[] args) 
     { 
         
-        int a =3; 
+        int a =5; 
         int d =1; 
-        int N =1; 
+        int N =0; 
   System.out.print( +Nth_of_AP(a, d, N));
     }
 }
