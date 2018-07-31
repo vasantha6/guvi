@@ -4,9 +4,9 @@ import java.lang.*;
  
 class GFG 
 {
-   public static int Nth_of_AP(int a, 
-                                int d, 
-                                int N)
+   public static int Nth_of_AP(int a,int d, int N)
+                                
+                                
     { 
         return ( a + (N +0) * d );
     }
