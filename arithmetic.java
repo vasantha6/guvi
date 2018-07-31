@@ -16,8 +16,8 @@ class Ideone
 		D=sc.nextInt();
 		for(int i=1;i<=N;i++);
 		{
-			sum=sum+A;
-			A=A+D;
+			sum= sum+A;
+			A= A+D;
 		}
 			System.out.print(sum);
 
