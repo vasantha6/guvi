@@ -8,7 +8,7 @@ class Ideone
 	{
 		
 		int c=0,a,temp;  
-		int n=12;
+		int n=371;
 		 temp=n;  
 		while(n>0)  
 		 {  
