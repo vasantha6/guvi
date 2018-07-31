@@ -1,3 +1,4 @@
+/* package whatever; // don't place package name! */
 import java.util.*;
 class Prime
 {
@@ -23,7 +24,7 @@ if(n==1)
 flag=false;
 }
 if(flag)
-System.out.println(n+  "  ");
+System.out.println(n+ " ");
 ++n;
 }
 }
