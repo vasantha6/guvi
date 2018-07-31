@@ -1,21 +1,25 @@
+/* package whatever; // don't place package name! */
 
-import java.io.*;
+import java.util.*;
 import java.lang.*;
- 
-class GFG 
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class Ideone
 {
-   public static int Nth_of_AP(int a,int d, int N)
-                                
-                                
-    { 
-        return ( a + (N +0) *d);
-    }
-  public static void main(String[] args) 
-    { 
-        
-        int a =5; 
-        int d =1; 
-        int N =0; 
-  System.out.print( +Nth_of_AP(a, d, N));
-    }
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	int N,A,D,sum=0;
+		Scanner sc=new Scanner(System.in);
+		N=sc.nextInt();
+		A=sc.nextInt();
+		D=sc.nextInt();
+		for(int i=1;i<=N;i++);
+		{
+			sum=sum+A;
+			A=A+D;
+		}
+			System.out.print(sum);
+
+	}
 }
