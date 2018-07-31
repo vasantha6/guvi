@@ -23,7 +23,7 @@ if(n==1)
 flag=false;
 }
 if(flag)
-System.out.println(n+ " ");
+System.out.println(n+  "  ");
 ++n;
 }
 }
