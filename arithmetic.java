@@ -8,7 +8,7 @@ class GFG
                                 
                                 
     { 
-        return ( a + (N +0) * d );
+        return ( a + (N +0) *d);
     }
   public static void main(String[] args) 
     { 
