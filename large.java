@@ -16,14 +16,14 @@ import java.util.Scanner;
         System.out.println("Enter elements of array:");
         for(int i = 0; i < n; i++)
         {
-            a[i] = s.nextInt();
+            a[i]=s.nextInt();
         }
-        max = a[0];
-        for(int i = 0; i < n; i++)
+        max=a[0];
+        for(int i=0; i<n;i++)
         {
-            if(max < a[i])
+            if(max<a[i])
             {
-                max = a[i];
+                max=a[i];
             }
         }
         System.out.println(+max);
