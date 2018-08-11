@@ -12,9 +12,9 @@ class Fib
 		for (n = 1; n <= ch; n++)
 			{
 			    System.out.print(a+" ");
-			    d = a + b;
-			    a = b;
-			    b = d;
+			    d =a+b;
+			    a =b;
+			    b =d;
 			}
 	}
 }
